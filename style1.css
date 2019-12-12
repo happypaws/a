@@ -304,7 +304,7 @@ textarea:hover {
 #grooming_text {
 	color: saddlebrown;
 	float: left;
-	margin-left: 300px;
+	margin-left: 230px;
 }
 .paw {
 	width: 20px;
@@ -809,7 +809,7 @@ div.grid-item:hover {
 }
 
 /* LAPTOP / DESKTOP */
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1025px) {
 	.logo {
 		margin: 0;
 		padding: 0;
@@ -893,7 +893,7 @@ div.grid-item:hover {
 	}
 	#grooming_text {
 		width: 40%;
-		margin: 0 0 0 50px;
+		margin: 0 0 0 20px;
 	}
 	#shop_para {
 		padding: 0;
