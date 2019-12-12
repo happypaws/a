@@ -257,7 +257,7 @@ textarea:hover {
 
 #shop_content {
 	justify-content: center;
-	padding-left: 100px;
+	padding-left: 0px;
 }
 .heading_products {
 	color: SaddleBrown;
